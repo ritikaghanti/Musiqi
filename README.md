@@ -1,7 +1,7 @@
 
 # Musiqi
 
-An reactive web music player created as part of CSE6324's final project. 
+A reactive web music player was created as part of CSE6324's final project. 
 
 
 ## Authors
